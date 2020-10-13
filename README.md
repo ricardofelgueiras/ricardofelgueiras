@@ -12,7 +12,7 @@ I really love to ride my motorcycle and go out with my friends. If I can do both
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -36,4 +36,4 @@ I really love to ride my motorcycle and go out with my friends. If I can do both
 [4]: https://www.linkedin.com/in/ricardo-felgueiras/
 [5]: https://github.com/ricardofelgueiras
 
-</div>
+</div> -->
