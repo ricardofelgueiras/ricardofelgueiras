@@ -1,3 +1,18 @@
+
+
+
+![Ricardo Felgueiras header image](https://raw.githubusercontent.com/ricardofelgueiras/ricardofelgueiras/master/images/header_image.png "Header image")
+
+### About me 
+I'm an engineering manager at dashdash. I started my career in 2008 by developing (mostly) web applications. I've worked in several areas, particularly in education, banking and e-commerce area.
+
+In the last years, I’ve been focused mainly on managing teams by acting as a mentor and a coach.
+
+I really love to ride my motorcycle and go out with my friends. If I can do both at the same time, the better.
+
+<br/>
+
+<div align="center">
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!-- display the social media buttons in your README -->
 
@@ -42,24 +57,4 @@
 [6]: http://www.github.com/carlsednaoui
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-
-![Ricardo Felgueiras header image](https://raw.githubusercontent.com/ricardofelgueiras/ricardofelgueiras/master/images/header_image.png "Header image")
-
-### About me 
-I'm an engineering manager at dashdash. I started my career in 2008 by developing (mostly) web applications. I've worked in several areas, particularly in education, banking and e-commerce area.
-
-In the last years, I’ve been focused mainly on managing teams by acting as a mentor and a coach.
-
-I really love to ride my motorcycle and go out with my friends. If I can do both at the same time, the better.
-
-<br/>
-
-<div align="center">
-[1]: https://twitter.com/RicFelgueiras
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
 </div>
