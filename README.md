@@ -1,8 +1,3 @@
-
-
-
-![Ricardo Felgueiras header image](https://raw.githubusercontent.com/ricardofelgueiras/ricardofelgueiras/master/images/header_image.png "Header image")
-
 ### About me 
 I'm an engineering manager at dashdash. I started my career in 2008 by developing (mostly) web applications. I've worked in several areas, particularly in education, banking and e-commerce area.
 
