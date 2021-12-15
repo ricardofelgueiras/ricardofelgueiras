@@ -21,7 +21,7 @@ I really love to ride my motorcycle and go out with my friends. If I can do both
 [2.1]: https://raw.githubusercontent.com/ricardofelgueiras/ricardofelgueiras/master/images/linkedin.png (linkedIn icon)
 
 
-[1]: https://twitter.com/RicFelgueiras
+[1]: https://twitter.com/rickyfelgueiras
 [2]: https://www.linkedin.com/in/ricardo-felgueiras/
 
 </div> 
